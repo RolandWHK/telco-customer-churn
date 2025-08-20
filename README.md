@@ -62,5 +62,5 @@ The dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) contains customer demograph
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/telco-customer-churn.git
+   git clone https://github.com/RolandWHK/telco-customer-churn.git
    cd telco-customer-churn
